@@ -1,2 +1,3 @@
-# basic_layout_with_parallax_effect
+# Website with Parallax Effect
+No Frameworks Used.
 Parallax Effect using only HTML5 and CSS3.
